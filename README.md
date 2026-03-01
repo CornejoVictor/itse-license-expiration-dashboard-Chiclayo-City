@@ -24,5 +24,9 @@ Interactive Power BI dashboard analyzing the expiration status of Technical Safe
 ## 📁 Data Source
 Official ITSE registration dataset from the Municipality of Chiclayo (2024-2026)
 
+## 🌐 Live Dashboard
+👉 [Click here to view the interactive dashboard](<iframe title="itse-license-expiration-dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGQ5ZTM4NTEtMTEyNi00ZjNiLWIyOWQtMDY5ZDNmY2JmMzExIiwidCI6Ijk4MjAxZmVmLWQ5ZjYtNGU2OC04NGY1LWMyNzA1MDc0ZTM0MiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>)
+
+
 ## 👤 Author
 Built as part of a data analysis and visualization learning journey.
